@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ShimmerBiophysicalProcessingLibrary_Rev_0_10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/multiShimmerTemplate/libs/ShimmerBiophysicalProcessingLibrary_Rev_0_10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

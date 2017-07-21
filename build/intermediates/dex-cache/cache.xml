@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\poorn\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\jsr305-1.3.9_3807cf141cd4ab72214fb52c63de5443403bbda8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\exploded-aar\MultiShimmerTemplate2\shimmerAndroidInstrumentDriver\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d60baef4803f708eb14723888da106133924c6b">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\MultiShimmerTemplate2-shimmerAndroidInstrumentDriver-unspecified_2cadbe410d181b37e889eed0cbf685c4b09763c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poorn\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\12.0\5bc66dd95b79db1e437eb08adba124a3e4088dc0\guava-12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\guava-12.0_cb3940362580cb734fd6654a9566b93965af1eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\exploded-aar\MultiShimmerTemplate2\shimmerAndroidInstrumentDriver\unspecified\jars\libs\androidplot-core-0.5.0-release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a08bcc8dba24bfe666c84df486f4bde7afba07d9">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\androidplot-core-0.5.0-release_f0911c7910bc7d0f9769bf25fee6c63332bec750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\libs\commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\commons-lang3-3.4_71ff2355249ace01b640ef62c792f571fc10cc88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\libs\commons-math-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4877b85d388275f994a5cfc7eceb73a8045d3006">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\commons-math-2.2_1ddf91aeb7b36331f4dcfde4370dbf7591ce85dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\libs\vecmath-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\vecmath-1.3.1_f8470ad9ed579dc2530ca04fe1715bd82f97b4c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\libs\ShimmerBiophysicalProcessingLibrary_Rev_0_10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="227d8d0b57c9a9424c7a7c569f3e36adb0ac692d">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\ShimmerBiophysicalProcessingLibrary_Rev_0_10_9bec3ffe84f094eee127a0e0d7dbbda2a840e972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poorn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\support-v4-19.1.0_6639d8533f1b7920d9114ae5ce9fe8c8f2eb050c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\exploded-aar\MultiShimmerTemplate2\shimmerAndroidInstrumentDriver\unspecified\jars\libs\AndroidBluetoothLibrary.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f53e8175d44f2c87f4bf757d0e03961af1b038e">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\AndroidBluetoothLibrary_9e8f505632981c55ba58eb10c742727f96c91a34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\shimmerDriver\build\libs\shimmerDriver.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d18b68209757d948a3386196a24f65c6de537603">
+        <dex dex="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\multiShimmerTemplate\build\intermediates\pre-dexed\debug\shimmerDriver_5b55113e91a0279c899222d1f6e3cef84f7c7389.jar" />
+    </item>
+
+</items>

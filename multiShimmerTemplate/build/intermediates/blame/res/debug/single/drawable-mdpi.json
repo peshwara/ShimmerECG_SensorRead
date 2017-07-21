@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_overflow.png",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\drawable-mdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_shimmer.png",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\drawable-mdpi\\ic_shimmer.png"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_forward.png",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\drawable-mdpi\\ic_action_forward.png"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_heart.png",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\drawable-mdpi\\ic_heart.png"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_write.png",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\drawable-mdpi\\ic_action_write.png"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_blank.png",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\drawable-mdpi\\ic_blank.png"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plot.png",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\drawable-mdpi\\ic_plot.png"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_stop_write.png",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\drawable-mdpi\\ic_action_stop_write.png"
+    }
+]

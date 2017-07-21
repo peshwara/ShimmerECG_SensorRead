@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\shimmerAndroidInstrumentDriver\src\main\assets"/><source path="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\shimmerAndroidInstrumentDriver\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\SFSU\Sem3\895\EKG\Android\Final\MultiShimmerTemplate2\shimmerAndroidInstrumentDriver\src\release\assets"/></dataSet></merger>

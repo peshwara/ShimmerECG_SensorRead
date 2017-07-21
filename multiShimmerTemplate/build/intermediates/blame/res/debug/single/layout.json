@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\text_dialog.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\text_dialog.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\heart_rate_dialog.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\heart_rate_dialog.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\plot_sensor_list.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\plot_sensor_list.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\blank_main.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\blank_main.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\write_data_menu.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\write_data_menu.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\devices_fragment_dialog.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\devices_fragment_dialog.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\enable_sensor_list.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\enable_sensor_list.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\invalid_name_dialog.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\invalid_name_dialog.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_enable_sensor_view.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\dialog_enable_sensor_view.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\plot_main.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\plot_main.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\devices_fragment.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\devices_fragment.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\plot_sensor_item.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\plot_sensor_item.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\configuration_fragment.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\configuration_fragment.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\devices_fragment_item.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\devices_fragment_item.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\save_dialog.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\save_dialog.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\plot_sensors_selection.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\plot_sensors_selection.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\attribute_name.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\attribute_name.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\build\\intermediates\\res\\merged\\debug\\layout\\log_popup.xml",
+        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\Final\\MultiShimmerTemplate2\\multiShimmerTemplate\\src\\main\\res\\layout\\log_popup.xml"
+    }
+]
